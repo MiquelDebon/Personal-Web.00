@@ -1,0 +1,127 @@
+
+body{
+  margin: 0;
+  text-align: center;
+  font-family: Montserrat;
+}
+
+hr{ border: 6px dotted #E2DFE0;
+    border-bottom: none;
+    background-color: none;
+    width: 14%;
+    margin-top:70px;
+    margin-bottom: 70px}
+
+h1{
+  margin: 0;
+  font-size: 2.82rem ;
+  padding-top: 100px;
+  color: #EF6351;
+  font-family: Sacramento;}
+
+h2{
+  color: #EF6351;
+  font-family: Montserrat;}
+
+h3{
+  font-family: Montserrat;
+  color: #F38375}
+
+p{
+  font-size: 13px;
+  color: gray;
+  font-family: Montserrat;}
+
+a{text-decoration: none;
+  margin: 0 20px;
+  font-size: 15px;
+  font-family: Montserrat
+  }
+
+a:hover{color: white}
+
+.a-programer{font-size: 1.4rem; font-weight: normal;}
+
+.CV-photo{
+  border-radius: 50%;}
+
+.top-container{
+  padding-top: 10px;
+  position: relative;
+  background-color: #F7A399;
+  line-height: 1;
+  }
+
+.descripcion-inicial{
+  width: 450px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.image-redonda-1{
+  width: 150px;
+  height: auto;
+  float:left;
+  border-radius: 100%;
+  border: 2px solid black;
+  margin-right: 30px;
+}
+
+.image-redonda-2{
+  width: 150px;
+  height: auto;
+  float: right;
+  border-radius: 100%;
+  border: 2px solid black;
+  margin-left: 30px;
+}
+
+.top-cloud{
+  position: absolute;
+  right: 20%;
+  top:20px;}
+
+.gift-computer{
+  position: absolute;
+  left: 5%;
+  bottom: -20px;
+}
+
+.middle-container{
+  margin: 20px 0;
+}
+
+.bottom-cloud{
+  position: absolute;
+  bottom: 45px;
+  left: 25%;
+}
+
+.skill-row{
+  width: 65%;
+  margin: 30px auto;
+  line-height: 1.4;
+  text-align: left;}
+
+.skills{margin: 30px auto;}
+
+
+.bottom-container{
+  background-color: #F7A399;
+  padding: 17px 0 5px 0;
+  line-height: 10px}
+
+.white-text{
+  color:white;
+  font-size: 12px;
+  font-weight: lighter;
+}
+
+form{margin: 15px;}
+
+
+.footer-link{
+  color:#EF6351;
+  font-weight: normal;
+}
+
+/* #abdbe3 */
